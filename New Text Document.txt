@@ -4,6 +4,11 @@
 abcde
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
 aaaaaaaa
 =======
 abcd
@@ -21,3 +26,18 @@ aa
 =======
 aaa
 >>>>>>> 180d49e (distinto)
+=======
+aaaaaa
+>>>>>>> 076ec5a (prueba unifico 3)
+=======
+aaaaaaa
+>>>>>>> cae6065 (prueba)
+=======
+aaaa
+>>>>>>> 82ebd01 (prueba)
+=======
+aaaaa
+>>>>>>> a1940f5 (prueba)
+=======
+aaaaaa
+>>>>>>> 78f9dca (prueba)
