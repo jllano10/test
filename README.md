@@ -9,7 +9,7 @@
 | IgnoreEkoStethoscopeId             | Required |  bool  |           |                                                                                |
 | MinimizeWhenIdle                   | Required |  bool  |           |                                                                                |
 | SecondScreenHomeButton             | Required |  bool  |           |                                                                                |
-| SelectedStethoscope                | Required | string |           | Can be one of the [SelectedStethoscope Options](#ref.selectedstethoscope-options)                                 |
+| SelectedStethoscope                | Required | string |           | Can be one of the [SelectedStethoscope Options](#selectedstethoscope-options)                                 |
 | ShowCloseButton                    | Required |  bool  |           |                                                                                |
 | ShowMinimizeButton                 | Required |  bool  |           |                                                                                |
 | ShowPrivacyModeOption              | Required | string |           | Can be one of the following options: "Auto", "On" or "Off"                     |
